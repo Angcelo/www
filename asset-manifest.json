@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/www/grupo17/static/css/main.41647186.chunk.css",
+    "main.js": "/www/grupo17/static/js/main.4b8c05f5.chunk.js",
+    "main.js.map": "/www/grupo17/static/js/main.4b8c05f5.chunk.js.map",
+    "runtime-main.js": "/www/grupo17/static/js/runtime-main.5aab871e.js",
+    "runtime-main.js.map": "/www/grupo17/static/js/runtime-main.5aab871e.js.map",
+    "static/js/2.aa786b62.chunk.js": "/www/grupo17/static/js/2.aa786b62.chunk.js",
+    "static/js/2.aa786b62.chunk.js.map": "/www/grupo17/static/js/2.aa786b62.chunk.js.map",
+    "static/js/3.b44e3da9.chunk.js": "/www/grupo17/static/js/3.b44e3da9.chunk.js",
+    "static/js/3.b44e3da9.chunk.js.map": "/www/grupo17/static/js/3.b44e3da9.chunk.js.map",
+    "index.html": "/www/grupo17/index.html",
+    "static/css/main.41647186.chunk.css.map": "/www/grupo17/static/css/main.41647186.chunk.css.map",
+    "static/js/2.aa786b62.chunk.js.LICENSE.txt": "/www/grupo17/static/js/2.aa786b62.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/www/grupo17/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5aab871e.js",
+    "static/js/2.aa786b62.chunk.js",
+    "static/css/main.41647186.chunk.css",
+    "static/js/main.4b8c05f5.chunk.js"
+  ]
+}
