@@ -1,2 +1,8 @@
 /grupo17/build
 /grupo17/node_modules
+myapp/src/code/analizadorXPath/package-lock.json
+myapp/src/code/analizadorXPath/package.json
+grupo17/node_modules
+grupo17/build
+
+grupo17/.vscode
